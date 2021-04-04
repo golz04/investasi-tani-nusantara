@@ -284,6 +284,9 @@ body{background-color: lightgray;}
 }
 
 .work-odd{background-color: white;}
+.work-odd img{
+    cursor: pointer;
+}
 .odd-poly{
     background-color: #95dbe5;
     background-size: cover;
@@ -291,6 +294,9 @@ body{background-color: lightgray;}
     clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
 }
 .work-even{background-color: #95dbe5;}
+.work-even img{
+    cursor: pointer;
+}
 .work-even-last{background-color: white;}
 .even-poly{
     background-color: white;
